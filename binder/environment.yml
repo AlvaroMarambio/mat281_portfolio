@@ -8,7 +8,7 @@ dependencies:
   - nodejs
   - widgetsnbextension
   # Python kernel
-  - altair=4
+  - altair=4.1.0
   - altair_saver
   - beautifulsoup4=4.9
   - geopandas
@@ -31,3 +31,6 @@ dependencies:
   - sympy
   - vega_datasets
   - xlrd
+  - vega
+  - pip
+  
